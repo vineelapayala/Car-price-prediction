@@ -23,3 +23,7 @@ Pandas, NumPy
 Scikit-learn
 
 Flask
+
+If you want to run the model 
+http://127.0.0.1:5000
+this is the ip address
